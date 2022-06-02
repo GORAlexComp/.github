@@ -1,4 +1,4 @@
-a<div align="center">
+<div align="center">
   <h1><p>GORAlex Comp</p></h1>
 
   <img hight="100" src="https://avatars.githubusercontent.com/u/27326698?s=100&v=4">
