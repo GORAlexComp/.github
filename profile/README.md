@@ -1,4 +1,4 @@
-<div align="center">
+a<div align="center">
   <h1><p>GORAlex Comp</p></h1>
 
   <img hight="100" src="https://avatars.githubusercontent.com/u/27326698?s=100&v=4">
@@ -21,10 +21,9 @@
 
 <br/>
 
-## Контакты
-
-|.-------------------------------.|.------------------------------.|
-<br/>
-|.--- :man_technologist: **SEO:** [@goralex97](https://github.com/goralex97) ---.|.--- :globe_with_meridians: **Сайт:** [ga97.pp.ua](https://ga97.pp.ua) ---.|
-<br/>
-|.-------------------------------.|.------------------------------.|
+<div align="center">
+	<h2>Контакты</h2>
+	|.------------------------------.|.----------------------------------.| <br/>
+	|.--- 👨‍💻 <b>SEO:</b> <a href="https://github.com/goralex97" title="Github profile GorAlex97`s">@goralex97</a> ---.|.--- 🌐 <b>Сайт:</b> <a href="https://ga97.pp.ua" title="Site ga97.pp.ua"><code>ga97.pp.ua</code></a> ---.| 	<br/>
+	|.-------------------------------.|.-----------------------------------.|
+</div>
