@@ -23,5 +23,8 @@
 
 ## Контакты
 
-- **SEO:** [@goralex97](https://github.com/goralex97)
-- **Сайт:** [ga97.pp.ua](https://ga97.pp.ua)
+|.-------------------------------.|.------------------------------.|
+<br/>
+|.--- :man_technologist: **SEO:** [@goralex97](https://github.com/goralex97) ---.|.--- :globe_with_meridians: **Сайт:** [ga97.pp.ua](https://ga97.pp.ua) ---.|
+<br/>
+|.-------------------------------.|.------------------------------.|
