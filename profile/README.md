@@ -24,6 +24,6 @@
 <div align="center">
 	<h2>Контакты</h2>
 	|.------------------------------.|.----------------------------------.| <br/>
-	|.--- 👨‍💻 <b>SEO:</b> <a href="https://github.com/goralex97" title="Github profile GorAlex97`s">@goralex97</a> ---.|.--- 🌐 <b>Сайт:</b> <a href="https://ga97.pp.ua" title="Site ga97.pp.ua"><code>ga97.pp.ua</code></a> ---.| 	<br/>
+	|.--- 👨‍💻 <b>SEO:</b> <a href="https://github.com/goralex97" title="Github profile GorAlex97`s"><code>@goralex97</code></a> ---.|.--- 🌐 <b>Сайт:</b> <a href="https://ga97.pp.ua" title="Site ga97.pp.ua"><code>ga97.pp.ua</code></a> ---.| 	<br/>
 	|.-------------------------------.|.-----------------------------------.|
 </div>
