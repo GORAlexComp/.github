@@ -16,8 +16,9 @@
 
 | Выпущен | Название | Описание | Информация |
 |:----------:|:--------:|:--------:|:----------:|
-| ✅ |  [GACPF](https://github.com/goralexcomp/gacpf) | PHP библиотека для быстрого вывода сокращений дат, перевода чисел в слова, работы с [`Lorem ipsum`](https://lipsum.com/) | ![](https://img.shields.io/github/release/goralexcomp/gacpf.md.svg) ![](https://img.shields.io/github/issues/goralexcomp/gacpf.md.svg) |
-| ✅ | [SuggestionOfTelegram](https://github.com/goralexcomp/sotelegram) | Предложка для Telegram на `PHP` с веб-панелью | ![](https://img.shields.io/github/release/goralexcomp/sotelegram.md.svg) ![](https://img.shields.io/github/issues/goralexcomp/sotelegram.md.svg) |
+| ✅ |  [GACPF](https://github.com/goralexcomp/gacpf) | PHP библиотека для быстрого вывода сокращений дат, перевода чисел в слова, работы с [`Lorem ipsum`](https://lipsum.com/) | ![](https://img.shields.io/github/release/goralexcomp/gacpf.svg) ![](https://img.shields.io/github/issues/goralexcomp/gacpf.svg) |
+| ⏳ | [SuggestionOfTelegram](https://github.com/goralexcomp/sotelegram) | Предложка для Telegram на `PHP` с веб-панелью | ![](https://img.shields.io/github/release/goralexcomp/sotelegram.svg) ![](https://img.shields.io/github/issues/goralexcomp/sotelegram.svg) |
+| ✅ | [KyivLime](https://github.com/goralexcomp/KyivLime) | Кліент - планувальник для Телеграм каналу "Київ Лайм" | ![](https://img.shields.io/github/release/goralexcomp/KyivLime.svg) ![](https://img.shields.io/github/issues/goralexcomp/KyivLime.svg) |
 
 <br/>
 
