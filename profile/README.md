@@ -1,29 +1,33 @@
 <div align="center">
-	<img hight="100" src="https://avatars.githubusercontent.com/u/27326698?s=100&v=4">
-	<h1><p>GORAlex Comp</p></h1>
-	<img hight="100" src="https://avatars.githubusercontent.com/u/27326698?s=100&v=4">
-	<br><br>
-	<p>Хранилище проектов от <b>GORAlex Comp</b>. <a Href="https://github.com/orgs/GORAlexComp/repositories?language=html&type=public"><code>HTML</code></a> шаблоны, <a href="https://github.com/orgs/GORAlexComp/repositories?language=php&type=public"><code>PHP</code></a> и <a href="https://heroku.com/"><code>HEROKU</code></a> решения.</p>
+	<img hight="100" src="https://github.com/GORAlexComp/.github/blob/main/profile/header.jpg?raw=true">
+	<h3>Хранилище проектов от <b>GORAlex Comp</b></h3>
+	<h4><a Href="https://github.com/orgs/GORAlexComp/repositories?language=html&type=public"><code>HTML</code></a>, <a href="https://github.com/orgs/GORAlexComp/repositories?language=php&type=public"><code>PHP</code></a>, <a href="https://github.com/orgs/GORAlexComp/repositories?language=python&type=public"><code>Python</code></a> и <a href="https://heroku.com/"><code>HEROKU</code></a> решения.</h4>
 </div>
 
 ---
 
-<div align="center">
-	<h2>Наши проекты</h2>
-	<br>
-</div>
+<h2 align="center">Наши проекты</h2>
+
+<h3 align="center">Кейс KyivLime</h3>
+
+| Выпущен | Название | Описание | Информация |
+|:----------:|:--------:|:--------:|:----------:|
+| ✅ | [KyivLimeSA](https://github.com/goralexcomp/KyivLimeSA) | Кліент - планувальник постів та сповіщень про повітряну тривогу для Телеграм каналу **"Київ Лайм"** | ![](https://img.shields.io/github/release/goralexcomp/KyivLimeSA.svg) ![](https://img.shields.io/github/issues/goralexcomp/KyivLimeSA.svg) |
+| ✅ | [KyivLimeAM](https://github.com/goralexcomp/KyivLimeAM) | Мапа повітряних тривог України від проєкту **"Київ Лайм"** | ![](https://img.shields.io/github/release/goralexcomp/KyivLimeAM.svg) ![](https://img.shields.io/github/issues/goralexcomp/KyivLimeAM.svg) |
+| ⏳ | [KyivLimeSOT](https://github.com/goralexcomp/KyivLimeSOT) | Пропонувальник новин та підтримка для Телеграм на _PHP_ | ![](https://img.shields.io/github/release/goralexcomp/KyivLimeSOT.svg) ![](https://img.shields.io/github/issues/goralexcomp/KyivLimeSOT.svg) |
+
+<p></p>
+<h3 align="center">Без кейсов</h3>
 
 | Выпущен | Название | Описание | Информация |
 |:----------:|:--------:|:--------:|:----------:|
 | ✅ |  [GACPF](https://github.com/goralexcomp/gacpf) | PHP библиотека для быстрого вывода сокращений дат, перевода чисел в слова, работы с [`Lorem ipsum`](https://lipsum.com/) | ![](https://img.shields.io/github/release/goralexcomp/gacpf.svg) ![](https://img.shields.io/github/issues/goralexcomp/gacpf.svg) |
-| ✅ | [KyivLimeSA](https://github.com/goralexcomp/KyivLimeSA) | Кліент - планувальник постів та сповіщень про повітряну тривогу для Телеграм каналу "Київ Лайм" | ![](https://img.shields.io/github/release/goralexcomp/KyivLimeSA.svg) ![](https://img.shields.io/github/issues/goralexcomp/KyivLimeSA.svg) |
-| ✅ | [KyivLimeAM](https://github.com/goralexcomp/KyivLimeAM) | Мапа повітряних тривог України від проєкту Київ Лайм | ![](https://img.shields.io/github/release/goralexcomp/KyivLimeAM.svg) ![](https://img.shields.io/github/issues/goralexcomp/KyivLimeAM.svg) |
-| ⏳ | [SuggestionOfTelegram](https://github.com/goralexcomp/sotelegram) | Предложка для Telegram на `PHP` с веб-панелью | ![](https://img.shields.io/github/release/goralexcomp/sotelegram.svg) ![](https://img.shields.io/github/issues/goralexcomp/sotelegram.svg) |
+
 <br>
 
 <div align="center">
 	<h2>Контакты</h2>
 	|.------------------------------.|.----------------------------------.| <br>
-	|.--- 👨‍💻 <b>SEO:</b> <a href="https://github.com/goralex97" title="Github profile GorAlex97`s"><code>@goralex97</code></a> ---.|.--- 🌐 <b>Сайт:</b> <a href="https://ga97.pp.ua" title="Site ga97.pp.ua"><code>ga97.pp.ua</code></a> ---.| 	<br>
+	|.--- 👨‍💻 <b>SEO:</b> <a href="https://github.com/goralex97" title="Github profile GorAlex97`s"><code>@goralex97</code></a> ---.|.--- 🌐 <b>Сайт:</b> <a href="https://gac.pp.ua" title="Site gac.pp.ua"><code>gac.pp.ua</code></a> ---.| 	<br>
 	|.-------------------------------.|.-----------------------------------.|
 </div>
