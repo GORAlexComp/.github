@@ -17,8 +17,8 @@
 | Выпущен | Название | Описание | Информация |
 |:----------:|:--------:|:--------:|:----------:|
 | ✅ |  [GACPF](https://github.com/goralexcomp/gacpf) | PHP библиотека для быстрого вывода сокращений дат, перевода чисел в слова, работы с [`Lorem ipsum`](https://lipsum.com/) | ![](https://img.shields.io/github/release/goralexcomp/gacpf.svg) ![](https://img.shields.io/github/issues/goralexcomp/gacpf.svg) |
-| ✅ | [KyivLime](https://github.com/goralexcomp/KyivLime) | Кліент - планувальник для Телеграм каналу "Київ Лайм" | ![](https://img.shields.io/github/release/goralexcomp/KyivLime.svg) ![](https://img.shields.io/github/issues/goralexcomp/KyivLime.svg) |
-| ✅ | [KyivLimeAlerts](https://github.com/goralexcomp/KyivLimeAlerts) | Мапа повітряних тривог України від проєкту Київ Лайм | ![](https://img.shields.io/github/release/goralexcomp/KyivLimeAlerts.svg) ![](https://img.shields.io/github/issues/goralexcomp/KyivLimeAlerts.svg) |
+| ✅ | [KyivLimeSA](https://github.com/goralexcomp/KyivLimeSA) | Кліент - планувальник постів та сповіщень про повітряну тривогу для Телеграм каналу "Київ Лайм" | ![](https://img.shields.io/github/release/goralexcomp/KyivLimeSA.svg) ![](https://img.shields.io/github/issues/goralexcomp/KyivLimeSA.svg) |
+| ✅ | [KyivLimeAM](https://github.com/goralexcomp/KyivLimeAM) | Мапа повітряних тривог України від проєкту Київ Лайм | ![](https://img.shields.io/github/release/goralexcomp/KyivLimeAM.svg) ![](https://img.shields.io/github/issues/goralexcomp/KyivLimeAM.svg) |
 | ⏳ | [SuggestionOfTelegram](https://github.com/goralexcomp/sotelegram) | Предложка для Telegram на `PHP` с веб-панелью | ![](https://img.shields.io/github/release/goralexcomp/sotelegram.svg) ![](https://img.shields.io/github/issues/goralexcomp/sotelegram.svg) |
 <br/>
 
