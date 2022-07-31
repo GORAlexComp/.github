@@ -1,4 +1,10 @@
 <div align="center">
+<a href="https://github.com/GORAlexComp/.github/blob/main/profile/README-uk.md">Українською</a> / <ins>На русском</ins> / <a href="https://github.com/GORAlexComp/.github/blob/main/profile/README-en.md">In English</a>
+</div>
+
+<br>
+
+<div align="center">
 	<img hight="100" src="https://github.com/GORAlexComp/.github/blob/main/profile/header.jpg?raw=true">
 	<h3>Хранилище проектов от <b>GORAlex Comp</b></h3>
 	<h4><a Href="https://github.com/orgs/GORAlexComp/repositories?language=html&type=public"><code>HTML</code></a>, <a href="https://github.com/orgs/GORAlexComp/repositories?language=php&type=public"><code>PHP</code></a>, <a href="https://github.com/orgs/GORAlexComp/repositories?language=python&type=public"><code>Python</code></a> и <a href="https://heroku.com/"><code>HEROKU</code></a> решения.</h4>
