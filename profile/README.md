@@ -6,10 +6,12 @@
 
 ---
 <div align="center">
-<a><code>Наши скилы</code></a> - <a><code>Наши проекты</code></a> - <a><code>Контакты</code></a>
+<a href="https://github.com/GORAlexComp/.github/blob/main/profile/README.md#наши-скилы"><code>Наши скилы</code></a> - <a href="https://github.com/GORAlexComp/.github/blob/main/profile/README.md#наши-проекты"><code>Наши проекты</code></a> - <a href="https://github.com/GORAlexComp/.github/blob/main/profile/README.md#контакты"><code>Контакты</code></a>
 </div>
 
 ---
+
+<br>
 
 <h2  align="center">Наши скилы</h2>
 
@@ -75,7 +77,11 @@
 	|.-------------------------------.|.-----------------------------------.|
 </div>
 
+<br><br>
+
 ---
-[<code>Наши скилы</code>]() - [<code>Наши проекты</code>]() - [<code>Контакты</code>]()
+<div align="center">
+<a href="https://github.com/GORAlexComp/.github/blob/main/profile/README.md#наши-скилы"><code>Наши скилы</code></a> - <a href="https://github.com/GORAlexComp/.github/blob/main/profile/README.md#наши-проекты"><code>Наши проекты</code></a> - <a href="https://github.com/GORAlexComp/.github/blob/main/profile/README.md#контакты"><code>Контакты</code></a>
+</div>
 
 ---
