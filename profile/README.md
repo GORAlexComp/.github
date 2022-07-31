@@ -5,6 +5,11 @@
 </div>
 
 ---
+<div align="center">
+<a><code>Наши скилы</code></a> - <a><code>Наши проекты</code></a> - <a><code>Контакты</code></a>
+</div>
+
+---
 
 <h2  align="center">Наши скилы</h2>
 
@@ -48,9 +53,29 @@
 
 <br>
 
+<h2 align="center">Контакты</h2>
+<table align="center">
+
+<tr><th>Социальные сети</th></tr>
+
+<tr><td>
+
+| Telegram | [https://t.me/goralexcomp](https://t.me/goralexcomp) |
+|:-------:|:-------:|
+
+</td></tr>
+
+</table>
+
+<br>
+
 <div align="center">
-	<h2>Контакты</h2>
-	|.------------------------------.|.----------------------------------.| <br>
+|.------------------------------.|.----------------------------------.| <br>
 	|.--- 👨‍💻 <b>SEO:</b> <a href="https://github.com/goralex97" title="Github profile GorAlex97`s"><code>@goralex97</code></a> ---.|.--- 🌐 <b>Сайт:</b> <a href="https://gac.pp.ua" title="Site gac.pp.ua"><code>gac.pp.ua</code></a> ---.| 	<br>
 	|.-------------------------------.|.-----------------------------------.|
 </div>
+
+---
+[<code>Наши скилы</code>]() - [<code>Наши проекты</code>]() - [<code>Контакты</code>]()
+
+---
