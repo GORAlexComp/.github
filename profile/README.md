@@ -6,6 +6,29 @@
 
 ---
 
+<h2  align="center">Наши скилы</h2>
+
+<table align="center">
+<tr><td>
+
+| Тип | Языки |
+|:----:|:----:|
+| **Базовые** | [![](https://skillicons.dev/icons?i=html,css,scss,js,jquery)]() |
+| **Серверные ООП** | [![](https://skillicons.dev/icons?i=php,python,java,nodejs)]() |
+
+</td><td>
+
+| Тип | Языки |
+|:----:|:----:|
+| **Дизайн** | [![](https://skillicons.dev/icons?i=photoshop,figma)]() |
+| **CMS и фреймы** | [![](https://skillicons.dev/icons?i=wordpress)]() |
+
+</td>
+</tr>
+</table>
+
+<br>
+
 <h2 align="center">Наши проекты</h2>
 
 <h3 align="center">Кейс KyivLime</h3>
