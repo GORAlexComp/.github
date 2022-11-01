@@ -50,7 +50,7 @@
 |:----------:|:--------:|:--------:|:----------:|
 | ✅ | [KyivLimeSA](https://github.com/goralexcomp/KyivLimeSA) | Кліент - планувальник постів та сповіщень про повітряну тривогу для Телеграм каналу **"Київ Лайм"** | ![](https://img.shields.io/github/release/goralexcomp/KyivLimeSA.svg) ![](https://img.shields.io/github/issues/goralexcomp/KyivLimeSA.svg) |
 | ✅ | [KyivLimeAM](https://github.com/goralexcomp/KyivLimeAM) | Мапа повітряних тривог України від проєкту **"Київ Лайм"** | ![](https://img.shields.io/github/release/goralexcomp/KyivLimeAM.svg) ![](https://img.shields.io/github/issues/goralexcomp/KyivLimeAM.svg) |
-| ⏳ | [KyivLimeSOT](https://github.com/goralexcomp/KyivLimeSOT) | Пропонувальник новин та підтримка для Телеграм на _PHP_ | ![](https://img.shields.io/github/release/goralexcomp/KyivLimeSOT.svg) ![](https://img.shields.io/github/issues/goralexcomp/KyivLimeSOT.svg) |
+| ⏳ | [SOTelegram](https://github.com/goralexcomp/SOTelegram) | Пропонувальник новин та підтримка для Телеграм на _PHP_ | ![](https://img.shields.io/github/release/goralexcomp/SOTelegram.svg) ![](https://img.shields.io/github/issues/goralexcomp/SOTelegram.svg) |
 
 <p></p>
 <h3 align="center">Free Case</h3>
