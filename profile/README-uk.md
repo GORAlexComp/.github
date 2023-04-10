@@ -34,7 +34,7 @@
 | Тип | Мова |
 |:----:|:----:|
 | **Дизайн** | [![](https://skillicons.dev/icons?i=photoshop,figma)]() |
-| **CMS та фрейми** | [![](https://skillicons.dev/icons?i=wordpress)]() |
+| **CMS та фрейми** | [![](https://skillicons.dev/icons?i=wordpress,laravel)]() |
 
 </td>
 </tr>
