@@ -34,7 +34,7 @@
 | Type | Lang |
 |:----:|:----:|
 | **Design** | [![](https://skillicons.dev/icons?i=photoshop,figma)]() |
-| **CMS and frames** | [![](https://skillicons.dev/icons?i=wordpress)]() |
+| **CMS and frames** | [![](https://skillicons.dev/icons?i=wordpress,laravel)]() |
 
 </td>
 </tr>
