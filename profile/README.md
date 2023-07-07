@@ -49,15 +49,17 @@
 | Выпущен | Название | Описание | Информация |
 |:----------:|:--------:|:--------:|:----------:|
 | ✅ | [KyivLimeRepost](https://github.com/goralexcomp/KyivLimeRepost) | Репостинг постів з Телеграм каналу **"Київ Лайм"** до Телеграм чат-форуму **"Київ Чат"** | ![](https://img.shields.io/github/release/goralexcomp/KyivLimeRepost.svg) ![](https://img.shields.io/github/issues/goralexcomp/KyivLimeRepost.svg) |
-| ✅ | [KyivLimeSA](https://github.com/goralexcomp/KyivLimeSA) | Кліент - планувальник постів та сповіщень про повітряну тривогу для Телеграм каналу **"Київ Лайм"** | ![](https://img.shields.io/github/release/goralexcomp/KyivLimeSA.svg) ![](https://img.shields.io/github/issues/goralexcomp/KyivLimeSA.svg) |
 | ✅ | [KyivLimeAM](https://github.com/goralexcomp/KyivLimeAM) | Мапа повітряних тривог України від проєкту **"Київ Лайм"** | ![](https://img.shields.io/github/release/goralexcomp/KyivLimeAM.svg) ![](https://img.shields.io/github/issues/goralexcomp/KyivLimeAM.svg) |
-| ⏳ | [SOTelegram](https://github.com/goralexcomp/SOTelegram) | Пропонувальник новин та підтримка для Телеграм на _PHP_ | ![](https://img.shields.io/github/release/goralexcomp/SOTelegram.svg) ![](https://img.shields.io/github/issues/goralexcomp/SOTelegram.svg) |
+| ✅ | [KyivLimeSA](https://github.com/goralexcomp/KyivLimeSA) | Кліент - планувальник постів та сповіщень про повітряну тривогу для Телеграм каналу **"Київ Лайм"** | ![](https://img.shields.io/github/release/goralexcomp/KyivLimeSA.svg) ![](https://img.shields.io/github/issues/goralexcomp/KyivLimeSA.svg) |
+| ✅ | [KyivLimePolicies](https://github.com/goralexcomp/KyivLimePolicies) | ⚖️ Terms and Rules for **Kyiv Lime** Projects and Applications | ![](https://img.shields.io/github/release/goralexcomp/KyivLimePolicies.svg) ![](https://img.shields.io/github/issues/goralexcomp/KyivLimePolicies.svg) |
 
 <p></p>
 <h3 align="center">Без кейсов</h3>
 
 | Выпущен | Название | Описание | Информация |
 |:----------:|:--------:|:--------:|:----------:|
+| ✅ |  [AppleColorEmojiFont](https://github.com/goralexcomp/AppleColorEmojiFont) | 🍏 Apple Color Emoji Font - Original converted font | ![](https://img.shields.io/github/release/goralexcomp/AppleColorEmojiFont.svg) ![](https://img.shields.io/github/issues/goralexcomp/AppleColorEmojiFont.svg) |
+| ✅ |  [ServerStatusBot](https://github.com/goralexcomp/ServerStatusBot) | Telegram бот для проверки статуса сервера и мониторинга использования системных ресурсов | ![](https://img.shields.io/github/release/goralexcomp/ServerStatusBot.svg) ![](https://img.shields.io/github/issues/goralexcomp/ServerStatusBot.svg) |
 | ✅ |  [GACPF](https://github.com/goralexcomp/gacpf) | PHP библиотека для быстрого вывода сокращений дат, перевода чисел в слова, работы с [`Lorem ipsum`](https://lipsum.com/) | ![](https://img.shields.io/github/release/goralexcomp/gacpf.svg) ![](https://img.shields.io/github/issues/goralexcomp/gacpf.svg) |
 
 <br>
