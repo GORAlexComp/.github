@@ -48,6 +48,7 @@
 
 | Публікація | Назва | Опис | Інформація |
 |:----------:|:--------:|:--------:|:----------:|
+| ✅ | [KyivLimeRepost](https://github.com/goralexcomp/KyivLimeRepost) | Репостинг постів з Телеграм каналу **"Київ Лайм"** до Телеграм чат-форуму **"Київ Чат"** | ![](https://img.shields.io/github/release/goralexcomp/KyivLimeRepost.svg) ![](https://img.shields.io/github/issues/goralexcomp/KyivLimeRepost.svg) |
 | ✅ | [KyivLimeSA](https://github.com/goralexcomp/KyivLimeSA) | Кліент - планувальник постів та сповіщень про повітряну тривогу для Телеграм каналу **"Київ Лайм"** | ![](https://img.shields.io/github/release/goralexcomp/KyivLimeSA.svg) ![](https://img.shields.io/github/issues/goralexcomp/KyivLimeSA.svg) |
 | ✅ | [KyivLimeAM](https://github.com/goralexcomp/KyivLimeAM) | Мапа повітряних тривог України від проекту **"Київ Лайм"** | ![](https://img.shields.io/github/release/goralexcomp/KyivLimeAM.svg) ![](https://img.shields.io/github/issues/goralexcomp/KyivLimeAM.svg) |
 | ⏳ | [SOTelegram](https://github.com/goralexcomp/SOTelegram) | Пропонувальник новин та підтримка для Телеграм на _PHP_ | ![](https://img.shields.io/github/release/goralexcomp/SOTelegram.svg) ![](https://img.shields.io/github/issues/goralexcomp/SOTelegram.svg) |
