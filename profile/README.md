@@ -58,6 +58,7 @@
 
 | Публікація | Назва | Опис | Інформація |
 |:----------:|:--------:|:--------:|:----------:|
+| ✅ |  [tupo_testovyy_bot](https://github.com/goralexcomp/tupo_testovyy_bot) | Телеграм-бот для показа возможностей | ![](https://img.shields.io/github/release/goralexcomp/tupo_testovyy_bot.svg) ![](https://img.shields.io/github/issues/goralexcomp/tupo_testovyy_bot.svg) |
 | ✅ |  [AppleColorEmojiFont](https://github.com/goralexcomp/AppleColorEmojiFont) | 🍏 Apple Color Emoji Font - Original converted font | ![](https://img.shields.io/github/release/goralexcomp/AppleColorEmojiFont.svg) ![](https://img.shields.io/github/issues/goralexcomp/AppleColorEmojiFont.svg) |
 | ✅ |  [ServerStatusBot](https://github.com/goralexcomp/ServerStatusBot) | Telegram бот для проверки статуса сервера и мониторинга использования системных ресурсов | ![](https://img.shields.io/github/release/goralexcomp/ServerStatusBot.svg) ![](https://img.shields.io/github/issues/goralexcomp/ServerStatusBot.svg) |
 | ✅ |  [GACPF](https://github.com/goralexcomp/gacpf) | PHP библиотека для быстрого вывода сокращений дат, перевода чисел в слова, работы с [`Lorem ipsum`](https://lipsum.com/) | ![](https://img.shields.io/github/release/goralexcomp/gacpf.svg) ![](https://img.shields.io/github/issues/goralexcomp/gacpf.svg) |
