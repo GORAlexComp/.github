@@ -1,5 +1,5 @@
 <div align="center">
-<ins>Українською</ins> / <a href="https://github.com/GORAlexComp/.github/blob/main/profile/README.md">На русском</a> / <a href="https://github.com/GORAlexComp/.github/blob/main/profile/README-en.md">In English</a>
+<ins>Українською</ins> / <a href="https://github.com/GORAlexComp/.github/blob/main/profile/README-ru.md">На русском</a> / <a href="https://github.com/GORAlexComp/.github/blob/main/profile/README-en.md">In English</a>
 </div>
 
 <br>
