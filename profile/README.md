@@ -12,7 +12,7 @@
 
 ---
 <div align="center">
-<a href="https://github.com/GORAlexComp/.github/blob/main/profile/README-uk.md#наші-навички"><code>Наші навички</code></a> - <a href="https://github.com/GORAlexComp/.github/blob/main/profile/README-uk.md#наші-проекти"><code>Наші проекти</code></a> - <a href="https://github.com/GORAlexComp/.github/blob/main/profile/README-uk.md#контакти"><code>Контакти</code></a>
+<a href="https://github.com/GORAlexComp/.github/blob/main/profile/README.md#наші-навички"><code>Наші навички</code></a> - <a href="https://github.com/GORAlexComp/.github/blob/main/profile/README.md#наші-проекти"><code>Наші проекти</code></a> - <a href="https://github.com/GORAlexComp/.github/blob/main/profile/README.md#контакти"><code>Контакти</code></a>
 </div>
 
 ---
@@ -92,7 +92,7 @@
 ---
 <div align="center">
 <div align="center">
-<a href="https://github.com/GORAlexComp/.github/blob/main/profile/README-uk.md#наші-навички"><code>Наші навички</code></a> - <a href="https://github.com/GORAlexComp/.github/blob/main/profile/README-uk.md#наші-проекти"><code>Наші проекти</code></a> - <a href="https://github.com/GORAlexComp/.github/blob/main/profile/README-uk.md#контакти"><code>Контакти</code></a>
+<a href="https://github.com/GORAlexComp/.github/blob/main/profile/README.md#наші-навички"><code>Наші навички</code></a> - <a href="https://github.com/GORAlexComp/.github/blob/main/profile/README.md#наші-проекти"><code>Наші проекти</code></a> - <a href="https://github.com/GORAlexComp/.github/blob/main/profile/README.md#контакти"><code>Контакти</code></a>
 </div>
 
 ---
