@@ -72,7 +72,7 @@
 
 <tr><td>
 
-| Telegram | [https://t.me/goralexcomp](https://t.me/goralexcomp) |
+| Telegram | [https://t.me/gacinfo_bot](https://t.me/gacinfo_bot) |
 |:-------:|:-------:|
 
 </td></tr>
